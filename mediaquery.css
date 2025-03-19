@@ -7,7 +7,7 @@
 }
 
 .task {
-    width: 90%;
+    width: 100%;
     padding: 15px;
     background-color: rgb(255, 255, 255);
     margin-bottom: 10px;
@@ -31,14 +31,17 @@
     height: 30px;
     width: 60px;
     border-style: none;
+    color: black;
 }
 
 #edit {
     background-color: royalblue;
+    color: black;
 }
 
 #delete {
     background-color: red;
+    color: black;
 }
 
 .container {
